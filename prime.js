@@ -5,7 +5,7 @@ for(let i=1;i<=n;i++){
         count++;
     }
 }
-if(count==2){
+if(count==3){
     console.log(n+" : prime");
 }else{
     console.log(n+" not prime");
